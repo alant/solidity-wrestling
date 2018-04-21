@@ -1,0 +1,6 @@
+{
+  "server": {
+    "baseDir": ["./web_src", "./build/contracts"],
+    "routes" : { "/node_modules" : "./node_modules"} 
+  }
+}
